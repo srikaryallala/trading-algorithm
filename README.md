@@ -1,2 +1,2 @@
 # trading-algorithm
-Trading algorithms for Quantiacs and Quantopian platforms
+Trading algorithms for Quantiacs and Quantopian.
